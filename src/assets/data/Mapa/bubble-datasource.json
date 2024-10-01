@@ -1,0 +1,65 @@
+[
+    {
+        "rank": 1,
+        "name": "China",
+        "value": 746662194,
+        "color": "#7F38A0",
+        "population": 746662194
+    },
+    {
+        "rank": 2,
+        "name": "India",
+        "value": 391292635,
+        "color": "#7F38A0 ",
+        "population": 391292635
+    },
+    {
+        "rank": 3,
+        "name": "United States",
+        "value": 245436423,
+        "color": "#99295D ",
+        "population": 245436423
+    },
+    {
+        "rank": 4,
+        "name": "Brazil",
+        "value": 123927230,
+        "color": "#364A98",
+        "population": 123927230
+    },
+    {
+        "rank": 5,
+        "name": "Japan",
+        "value": 117528631,
+        "color": "#7F38A0 ",
+        "population": 117528631
+    },
+    {
+        "rank": 6,
+        "name": "Russia",
+        "value": 110003284,
+        "color": "#2E769F",
+        "population": 110003284
+    },
+    {
+        "rank": 7,
+        "name": "Mexico",
+        "value": 75937568,
+        "color": "#99295D ",
+        "population": 75937568
+    },
+    {
+        "rank": 8,
+        "name": "Germany",
+        "value": 73436503,
+        "color": "#2E769F",
+        "population": 73436503
+    },
+    {
+        "rank": 9,
+        "name": "Indonesia",
+        "value": 66244991,
+        "color": "#7F38A0 ",
+        "population": 66244991
+    }
+]
